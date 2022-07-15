@@ -1,0 +1,12 @@
+{
+	"name": "webpack-static-blocks",
+	"version": "1.0.0",
+	"private": true,
+	"scripts": {
+		"start": "webpack"
+	},
+	"devDependencies": {
+		"webpack": "^5.73.0",
+		"webpack-cli": "^4.10.0"
+	}
+}
